@@ -1,6 +1,8 @@
 ### Olá! Eu sou o Eduardo Reinheimer
 
-<div>
+<p>Página em desenvolvimento</p>
+
+<div name="mylangs">
   <a href="https://github.com/EduardoReinheimer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoReinheimer&layout=compact&langs_count=7&theme=light"/>
 </div>
