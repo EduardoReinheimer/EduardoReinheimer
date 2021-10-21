@@ -10,14 +10,16 @@ Nos repositórios desse Github você irá encontrar principalmente meus reposit�
   <a href="https://github.com/EduardoReinheimer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoReinheimer&layout=compact&langs_count=7&theme=light"/>
 </div>
-  
-<div align="center">
+
+ <!---
+ <div align="center">
   
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raimiii)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
- 
+--->
 
+ 
 ###
   
 <div>  
