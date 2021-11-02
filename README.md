@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Eduardo Reinheimer
 
-Aluno de Ciência da Computação pelo IFC de Santa Catarina 
+Aluno de Ciência da Computação
 ###
-Desenvolvedor de Software em .NET
+Desenvolvedor C#
 ###
 Nos repositórios desse Github você irá encontrar principalmente meus repositórios contendo os exercícios realizados durante o curso. Além disso encontrará também alguns projetos pessoais que são bem legais, e diga-se de passagem, estão a um bom tempo sem manutenção. Então se que um desafio, clone um deles e o faça rodar em sua máquina. Farei um pix de R$0,01(não acumulativo) para cada pessoa que conseguir fazer essa façanha sem minha ajuda.
 
