@@ -1,10 +1,10 @@
-🚀 Sobre Mí
+### Sobre Mí
 Soy un apasionado desarrollador .NET con una sólida base en tecnologías de Microsoft y una curiosidad insaciable por el aprendizaje continuo. Mi enfoque se centra en crear soluciones robustas y eficientes, siempre con un ojo en las mejores prácticas y las tendencias emergentes en el mundo del desarrollo de software.
 
-💼 Experiencia Profesional
+### Experiencia Profesional
 He trabajado en una variedad de proyectos, desde aplicaciones web hasta soluciones empresariales, siempre utilizando el framework .NET para entregar código de alta calidad y rendimiento. Mi experiencia incluye trabajo con C#, ASP.NET, Entity Framework, y SQL Server, entre otras tecnologías.
 
-🔍 En GitHub
+### En GitHub
 Aquí encontrarás mis proyectos personales, contribuciones a proyectos de código abierto, y experimentos con las últimas características de .NET. Mi objetivo es no solo mostrar mi trabajo, sino también aprender de la comunidad y contribuir a ella.
 
 <div align="center">
