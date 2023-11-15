@@ -1,8 +1,11 @@
-### Olá! Eu sou o Eduardo Reinheimer
+🚀 Sobre Mí
+Soy un apasionado desarrollador .NET con una sólida base en tecnologías de Microsoft y una curiosidad insaciable por el aprendizaje continuo. Mi enfoque se centra en crear soluciones robustas y eficientes, siempre con un ojo en las mejores prácticas y las tendencias emergentes en el mundo del desarrollo de software.
 
-Aluno de Ciência da Computação
-###
-Nos repositórios desse Github você irá encontrar principalmente meus repositórios contendo os exercícios realizados durante o curso. Além disso encontrará também alguns projetos pessoais que são bem legais, e diga-se de passagem, estão a um bom tempo sem manutenção. Então se que um desafio, clone um deles e o faça rodar em sua máquina. Farei um pix de R$0,01(não acumulativo) para cada pessoa que conseguir fazer essa façanha sem minha ajuda.
+💼 Experiencia Profesional
+He trabajado en una variedad de proyectos, desde aplicaciones web hasta soluciones empresariales, siempre utilizando el framework .NET para entregar código de alta calidad y rendimiento. Mi experiencia incluye trabajo con C#, ASP.NET, Entity Framework, y SQL Server, entre otras tecnologías.
+
+🔍 En GitHub
+Aquí encontrarás mis proyectos personales, contribuciones a proyectos de código abierto, y experimentos con las últimas características de .NET. Mi objetivo es no solo mostrar mi trabajo, sino también aprender de la comunidad y contribuir a ella.
 
 <div align="center">
   <a href="https://github.com/EduardoReinheimer">
